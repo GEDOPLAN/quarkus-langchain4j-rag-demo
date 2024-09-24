@@ -1,0 +1,60 @@
+POST http://localhost:8080/ai/rag
+Content-Type: text/plain
+
+Do you have any traffic information for the A2?
+
+###
+POST http://localhost:8080/ai/rag/checkEmbeddingScore
+Content-Type: text/plain
+
+Do you have any traffic information for the A2?
+
+###
+POST http://localhost:8080/ai/rag
+Content-Type: text/plain
+
+Welche Verkehrseinschränkungen gibt es auf der A1?
+
+###
+POST http://localhost:8080/ai/rag/checkEmbeddingScore
+Content-Type: text/plain
+
+Welche Verkehrseinschränkungen gibt es auf der A1?
+
+###
+POST http://localhost:8080/ai/rag
+Content-Type: text/plain
+
+Do you have any traffic information for the A5?
+
+###
+POST http://localhost:8080/ai/rag/checkEmbeddingScore
+Content-Type: text/plain
+
+Do you have any traffic information for the A5?
+
+###
+POST http://localhost:8080/ai/rag
+Content-Type: text/plain
+
+What is the current weather in Bielefeld?
+
+###
+POST http://localhost:8080/ai/rag/checkEmbeddingScore
+Content-Type: text/plain
+
+What is the current weather in Bielefeld?
+
+###
+POST http://localhost:8080/ai/rag
+Content-Type: text/plain
+
+What is the current weather in New York?
+
+###
+POST http://localhost:8080/ai/rag/checkEmbeddingScore
+Content-Type: text/plain
+
+What is the current weather in New York?
+
+###
